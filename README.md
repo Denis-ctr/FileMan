@@ -56,7 +56,6 @@ To compile and run FileMan, you need:
 - [ ] File search and filtering.
 - [ ] Ability to rename and delete files.
 - [ ] Icons for different file types.
-- [ ] Dark mode support.
 
 ## 📄 License
 
