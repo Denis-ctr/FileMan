@@ -6,6 +6,7 @@
 ![GUI](https://img.shields.io/badge/Toolkit-NiGui-00AD11?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
+
 ## ✨ Features
 
 * **Native GUI Interface:** A clean window-based experience powered by NiGui.
